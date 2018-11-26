@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="io.mjimenez.blockchain">
+
+    <application>
+        <!--<uses-library-->
+        <!--android:name="android.test.runner"-->
+        <!--android:required="false"/>-->
+    </application>
+</manifest>
